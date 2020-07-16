@@ -1,1 +1,1 @@
-# doc_release
+This is a place holder for documentation releases.
